@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&color=58A6FF&center=true&vCenter=true&width=500&height=60&lines=Hello+World+I'm+Devilfrom;Welcome+to+my+GitHub+Profile+:)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Hello+World+I'm+Devilfrom;Welcome+to+my+GitHub+Profile+:)" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -59,5 +59,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&animation=fadeIn&fontSize=100" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&animation=waving&fontSize=100" alt="footer" />
 </p>
